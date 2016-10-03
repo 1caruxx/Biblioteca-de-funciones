@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1474475046 source:c:\users\telefonica\desktop\bibilioteca de funciones\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1474475482 source:c:\users\telefonica\desktop\bibilioteca de funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1474475528 c:\users\telefonica\desktop\bibilioteca de funciones\funciones.h
+
+1474475482 source:c:\users\telefonica\desktop\universidad\programacion 1\bibilioteca de funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1475425266 c:\users\telefonica\desktop\universidad\programacion 1\bibilioteca de funciones\funciones.h
+
+1475423430 source:c:\users\telefonica\desktop\universidad\programacion 1\bibilioteca de funciones\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
