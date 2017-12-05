@@ -19,6 +19,11 @@ Los lenguajes tratados fueron:
     </tbody>
 </table>
 
+## Profesores
+
+* David Fernandez
+* German Scarafilo
+
 ## Autor
 
 * Fernando Lareu - [1caruxx](https://github.com/1caruxx)
